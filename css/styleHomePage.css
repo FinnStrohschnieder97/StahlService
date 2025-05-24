@@ -24,7 +24,7 @@ header {
   align-items: center;
   justify-content: flex-start;
   padding: 20px;
-  background-color: #023e8a;
+  background-color: #218838;
   color: white;
   gap: 20px;
   flex-wrap: wrap;
@@ -47,7 +47,7 @@ header {
 
 /* ========= Navigation ========== */
 nav {
-  background-color: #0077b6;
+  background-color: #218838;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -98,7 +98,7 @@ nav a:hover {
 }
 
 .cta a {
-  background-color: #0077b6;
+  background-color:#218838;
   color: white;
   padding: 15px 25px;
   text-decoration: none;
@@ -108,12 +108,12 @@ nav a:hover {
 }
 
 .cta a:hover {
-  background-color: #0096c7;
+  background-color: #218838;;
 }
 
 /* ========= Footer ========== */
 footer {
-  background-color: #023e8a;
+  background-color: #218838;
   color: white;
   text-align: center;
   padding: 15px 0;
@@ -140,7 +140,7 @@ footer {
 
 .service-icon {
   font-size: 2em;
-  color: #0077b6;
+  color: #218838;
   margin-bottom: 10px;
   display: block;
 }
